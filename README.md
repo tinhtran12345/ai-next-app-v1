@@ -23,9 +23,7 @@
 -   How to reuse layouts
 -   Folder structure in Next 13 App Router
 
-## Link tutorial: https://www.youtube.com/watch?v=ffJ38dBzrlY&t=411s&ab_channel=CodeWithAntonio
 
-## Link repo: https://github.com/AntonioErdeljac/next13-ai-saas
 
 ### Install packages
 
